@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>end to end flow</description>
+   <name>TC_006_ENDTOEND</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1298494a-76c5-4cf0-a052-e4677b7300f9</testCaseGuid>
+</TestCaseEntity>

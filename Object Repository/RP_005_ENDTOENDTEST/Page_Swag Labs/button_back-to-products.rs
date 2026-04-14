@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_back-to-products</name>
+   <tag></tag>
+   <elementGuidId>c44afdc6-06e0-4650-ad97-09ae7c8787dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-test=&quot;back-to-products&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-test = 'back-to-products']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5212b46f-812b-4555-9291-888619f3c12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn_primary btn_small</value>
+      <webElementGuid>b4fd2d27-9f39-4a4b-a05b-804f88389985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>back-to-products</value>
+      <webElementGuid>71cec6f6-174e-4bfb-be40-9e9e2acecc45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>back-to-products</value>
+      <webElementGuid>6eab6462-b091-475e-9079-8736a968e772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>back-to-products</value>
+      <webElementGuid>c2a20dbf-5c11-43b4-98a3-a764460648b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back Home</value>
+      <webElementGuid>ca9a7d45-6c55-454f-9c9c-75489c26a115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-952e7c846ab5c4d32815bcda6b33b2a3</value>
+      <webElementGuid>1783c3c4-6b82-4fa2-9708-2632abbd1da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'back-to-products']</value>
+      <webElementGuid>1b8a7d91-8ed7-4edf-b14e-cbdf5ca649e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'back-to-products']</value>
+      <webElementGuid>97ec2d50-010c-471d-bfdd-2162ae75bdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'back-to-products' and @name = 'back-to-products' and (text() = 'Back Home' or . = 'Back Home')]</value>
+      <webElementGuid>e690fe25-4e69-495f-9583-cc05149e8ea1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
